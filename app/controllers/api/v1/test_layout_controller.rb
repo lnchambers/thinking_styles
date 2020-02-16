@@ -1,0 +1,3 @@
+class TestLayoutController < ApplicationController
+
+end
