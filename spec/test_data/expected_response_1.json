@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "score_key": "67835852555865835849505865825857575867825857484848",
+    "scores": {
+      "concrete_sequential": 47,
+      "abstract_sequential": 12,
+      "abstract_random": 99,
+      "concrete_random": 9000
+    }
+  }
+}

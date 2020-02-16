@@ -4,7 +4,7 @@ require 'rails_helper'
 
 describe Api::V1::ResultsController do
   let(:params) { JSON.parse(File.read(Rails.root.join("spec", "test_data", "expected_input_1.json"))) }
-  let(:expected_results) { JSON.parse(File.read(Rails.root.join("spec", "test_data", "expected_results_1.json")), symbolize_names: true) }
+  let(:expected_response) { JSON.parse(File.read(Rails.root.join("spec", "test_data", "expected_response_1.json")), symbolize_names: true) }
 
   describe '#create' do
     it "expects to return a correctly formatted json object" do

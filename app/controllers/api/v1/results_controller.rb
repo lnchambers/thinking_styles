@@ -2,6 +2,6 @@
 
 class Api::V1::ResultsController < ApplicationController
   def create
-    render nothing: true
+    render json: ResultPresenter.new(params).result
   end
 end
