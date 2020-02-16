@@ -1,0 +1,49 @@
+{
+  "payload": [
+    {
+      "answer": ["C", "D"]
+    },
+    {
+      "answer": ["A", "D"]
+    },
+    {
+      "answer": ["C", "B"]
+    },
+    {
+      "answer": ["B", "A"]
+    },
+    {
+      "answer": ["D", "C"]
+    },
+    {
+      "answer": ["A", "B"]
+    },
+    {
+      "answer": ["C", "D"]
+    },
+    {
+      "answer": ["A", "D"]
+    },
+    {
+      "answer": ["B", "D"]
+    },
+    {
+      "answer": ["C", "D"]
+    },
+    {
+      "answer": ["A", "B"]
+    },
+    {
+      "answer": ["A", "C"]
+    },
+    {
+      "answer": ["D", "A"]
+    },
+    {
+      "answer": ["B", "D"]
+    },
+    {
+      "answer": ["C", "B"]
+    }
+  ]
+}
