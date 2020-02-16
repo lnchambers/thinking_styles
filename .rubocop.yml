@@ -1,0 +1,12 @@
+Layout/LineLength:
+  Max: 100
+  AllowURI: true
+  AllowHeredoc: true
+
+Style/Documentation:
+  Enabled: false
+
+AllCops:
+  Exclude:
+    - 'config/**/*'
+    - 'bin/**/*'
